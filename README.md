@@ -300,9 +300,7 @@ Two guys curate a study guide
 
 ## Data Structures && Algorithms
 ### Algorithmic complexity / Big-O / Asymptotic analysis
-
-<details>
-<summary>Algorithmic complexity / Big-O / Asymptotic analysis</summary>
+#### Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
@@ -325,14 +323,7 @@ Two guys curate a study guide
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [Cheat sheet](http://bigocheatsheet.com/)
 
-
-</details>
-
 ### Data Structures
-
-<details>
-<summary>Data Structures</summary>
-
 - #### Arrays
     - Implement an automatically resizing vector.
     - Description:
@@ -458,13 +449,7 @@ Two guys curate a study guide
         - get(key)
         - remove(key)
 
-</details>
-
 ### More Knowledge
-
-<details>
-<summary>More Knowledge</summary>
-
 - #### Binary search
     - [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
@@ -500,13 +485,7 @@ Two guys curate a study guide
     - absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
-</details>
-
 ### Trees
-
-<details>
-<summary>Trees</summary>
-
 - #### Trees - Notes & Background
     - [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
     - [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
@@ -586,13 +565,7 @@ Two guys curate a study guide
         - heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 
-</details>
-
 ### Sorting
-
-<details>
-<summary>Sorting</summary>
-
 - Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
@@ -666,13 +639,7 @@ Two guys curate a study guide
 As a summary, here is a visual representation of [15 sorting algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg).
 If you need more detail on this subject, see "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
-</details>
-
 ### Graphs
-
-<details>
-<summary>Graphs</summary>
-
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
 - Notes:
@@ -731,13 +698,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - list strongly connected components
         - check for bipartite graph
 
-</details>
-
 ### Even More Knowledge
-
-<details>
-<summary>Even More Knowledge</summary>
-
 - #### Recursion
     - Stanford lectures on recursion & backtracking:
         - [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
@@ -987,9 +948,6 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Sockets:
         - [Java - Sockets - Introduction (video)](https://www.youtube.com/watch?v=6G_W54zuadg&t=6s)
         - [Socket Programming (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
-
-</details>
-
 
 ## Systems Design
 
